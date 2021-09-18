@@ -11,7 +11,7 @@ New loss functions in this project are:
 ![](./plot/NewLoss.png)
 
 * `Initialization`:  
-I initialize weights of conditional batch normalization layers in the generator with [nn.init.orthogonal_] instead of [nn.init.ones_].
+Initialize weights of conditional batch normalization layers in the generator with [nn.init.orthogonal_] instead of [nn.init.ones_].
 
 ## Images
 
