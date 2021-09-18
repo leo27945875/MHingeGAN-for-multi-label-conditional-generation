@@ -3,7 +3,7 @@
 ## Some Changes for Adapting Multi-Label Condition
 
 * `Loss Function`:  
-Origin loss functions of the auxiliary classifier are:
+Origin loss functions of the auxiliary classifier are:  
 ![](./plot/OldLoss.png)  
 New loss functions in this project are:  
 ![](./plot/NewLoss.png)
