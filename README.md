@@ -5,7 +5,7 @@
 * `Loss Function`:  
 Origin loss functions of the auxiliary classifier are:
 ![](./plot/OldLoss.png)  
-New loss functions in this project are:
+New loss functions in this project are:  
 ![](./plot/NewLoss.png)
 
 * `Initialization`:  
