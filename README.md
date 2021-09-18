@@ -41,7 +41,9 @@ For example:
 
 ## Experiment
 
-!["Result"](./plot/_SAGAN_512_Std_NoRes_247_0.81944.png)
+(./label/test.json)  
+!["Result"](./plot/_SAGAN_512_Std_NoRes_247_0.81944.png)  
+Accuracy evaluated by `./model/eval_model/classifier_weight.pth`(Resnet18) = 0.83
 
 ## Reference
 https://openaccess.thecvf.com/content/WACV2021/papers/Kavalerov_A_Multi-Class_Hinge_Loss_for_Conditional_GANs_WACV_2021_paper.pdf
