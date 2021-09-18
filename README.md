@@ -1,5 +1,7 @@
 # MHingeGAN for multi-label conditional generation
 
+Use MHingeGAN to do multi-label conditional generation with CLEVR dataset.
+
 ## Some Changes for Adapting Multi-Label Condition
 
 * `Loss Function`:  
